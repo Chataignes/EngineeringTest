@@ -4,7 +4,7 @@
 - Place solution1.py in the "Engineering Test Files" folder
 - Run `python3 solution1.py` in terminal or use any IDE(such as pycharm)
 - "Combined.csv" will be generated in the same location
-- Wasn't sure if the result file needs to be sorted in IP address. If that's the case I would read the files and store value into a dictionary where {key = IP : value = Env}, sort with the key and write values back to output file.
+- Wasn't sure if the result file needs to be sorted by Env or IP address. If by IP address I would read the files and store value into a dictionary where {key = IP : value = Env}, sort with the key and write values back to output file.
  
 ## Solution 2
 - Run `npm install request, nedb` in terminal
